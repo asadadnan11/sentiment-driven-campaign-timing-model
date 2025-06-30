@@ -4,13 +4,13 @@
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## 📊 Project Overview
+## Project Overview
 
 The **Sentiment-Driven Campaign Timing Model** is a comprehensive data science project that demonstrates how social media sentiment analysis can optimize marketing campaign timing to maximize ROI. By analyzing the correlation between sentiment trends and engagement metrics, this model identifies optimal timing windows for campaign launches, providing marketing teams with data-driven insights for strategic decision-making.
 
 This project simulates real-world marketing analytics scenarios using synthetic data to showcase advanced time series analysis, natural language processing, and business intelligence techniques for campaign optimization.
 
-## 🎯 Key Objectives
+## Key Objectives
 
 - **Sentiment-Engagement Correlation**: Identify the relationship between social media sentiment and marketing engagement metrics
 - **Optimal Lag Detection**: Determine the ideal time delay between sentiment spikes and campaign launches for maximum impact
@@ -18,7 +18,7 @@ This project simulates real-world marketing analytics scenarios using synthetic 
 - **Actionable Business Insights**: Provide strategic recommendations with quantified ROI impact estimations
 - **Comprehensive Visualization**: Create interactive dashboards for stakeholder communication and decision support
 
-## 🔄 Workflow Summary
+## Workflow Summary
 
 ### 1. **Synthetic Data Generation**
 - Generate 3,000+ realistic social media posts over 60-day period
@@ -56,29 +56,29 @@ This project simulates real-world marketing analytics scenarios using synthetic 
 - ROI estimation with performance improvement projections
 - Risk mitigation strategies and implementation timeline
 
-## 📈 Key Insights Discovered
+## Key Insights Discovered
 
-### ⏰ Optimal Timing Windows
+### Optimal Timing Windows
 - **2-day lag** identified as optimal for campaign launches after positive sentiment spikes
 - Peak correlation occurs with sentiment leading engagement by 48 hours
 - Different metrics show varying optimal lags (clicks: immediate, conversions: 3-day delay)
 
-### 📅 Weekly Pattern Effects
+### Weekly Pattern Effects
 - **20% lower engagement** observed during weekend periods
 - Tuesday-Thursday launches demonstrate highest ROI potential
 - Sentiment patterns show consistent weekly cyclical behavior
 
-### 📊 Volatility Impact
+### Volatility Impact
 - High sentiment volatility periods require adjusted campaign strategies
 - Sentiment momentum serves as early warning indicator for engagement changes
 - Volatility-engagement correlation: -0.15 (stable periods perform better)
 
-### 💰 Estimated ROI Improvement
+### Estimated ROI Improvement
 - **15-25% improvement** in campaign engagement rates achievable through optimal timing
 - **10-20% better ROI** through data-driven timing strategies
 - Reduced wasted ad spend during negative sentiment periods
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Core Libraries
 - **Python 3.8+** - Primary programming language
@@ -104,7 +104,7 @@ This project simulates real-world marketing analytics scenarios using synthetic 
 - **Jupyter Notebook** - Interactive development and documentation
 - **warnings** - Clean output management
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 
@@ -130,7 +130,7 @@ nltk.download('vader_lexicon')
 
 1. **Clone/Download the Project**
 ```bash
-git clone <repository-url>
+git clone https://github.com/asadadnan11/sentiment-driven-campaign-timing-model.git
 cd sentiment-driven-campaign-timing-model
 ```
 
@@ -160,7 +160,7 @@ jupyter notebook
 └── requirements.txt                              # Dependencies (if created)
 ```
 
-## 📋 Expected Results
+## Expected Results
 
 Upon successful execution, you'll receive:
 
@@ -170,7 +170,7 @@ Upon successful execution, you'll receive:
 4. **Risk Assessment**: Weekend effects and volatility impact analysis
 5. **Action Plan**: 10-item implementation checklist with timeline
 
-## ⚠️ Important Disclaimer
+## Important Disclaimer
 
 **All data in this project is synthetic and generated for educational and demonstration purposes only.** 
 
@@ -180,7 +180,7 @@ Upon successful execution, you'll receive:
 - This project serves as a proof-of-concept for sentiment-driven marketing analytics
 - Real-world implementation would require actual social media data and additional validation
 
-## 📞 Support & Contribution
+## Support & Contribution
 
 For questions, issues, or contributions:
 - Review the notebook documentation for detailed explanations
@@ -188,10 +188,10 @@ For questions, issues, or contributions:
 - Modify parameters in the synthetic data generation for different scenarios
 - Extend the analysis with additional engagement metrics or time periods
 
-## 📄 License
+## License
 
 This project is available under the MIT License. See LICENSE file for details.
 
 ---
 
-**Built with ❤️ for marketing analytics and data science education** 
+**Built for marketing analytics and data science education** 
